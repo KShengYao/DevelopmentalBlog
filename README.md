@@ -94,7 +94,7 @@ And here are some examples of js codes:
 and we also learn about Object Oriented Programming which are group together a set
 of variables and functions to
 create a model. Used to model the real world
-<br><img src="images/javaOOP.JPG" width="500" height="300">
+<br><img src="images/javaOOP.jpg" width="500" height="300">
 
 and we also learn about Document Object Model which creaates a model of the page. And the model is called a DOM tree
 
