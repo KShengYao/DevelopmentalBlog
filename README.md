@@ -67,7 +67,7 @@ CSS position property lets you alter the positioning scheme of a particular elem
   <li>Absolute Position: Offset is relative to the entire browser window instead of the original position of the element.</li>
   <li>Fixed Position Very similar to absolute EXCEPT the coordinate system is relative to the entire browser window. Fixed elements don't scroll with the rest of the page. Commonly known as sticky elements</li>
 </ul>  
-<img src="images/positioning.JPG" width="500" height="300"><br><br>
+<br><br><img src="images/positioning.JPG" width="500" height="300"><br><br>
 
 and lastly we learn about flexboxes with are:
 <br><img src="images/flex.JPG" width="500" height="300"><br><br>
@@ -83,7 +83,7 @@ Which are:
 </ul> 
 
 So basically, we learn how to use responsive images as it have better performance and auot-resize based on screen size.
-<img src="images/week4Res.JPG" width="800" height="400"><br><br>
+<br><br><img src="images/week4Res.JPG" width="800" height="400"><br><br>
 
 and we started on doing our assignments.
 <br><br><br><br>
