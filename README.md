@@ -73,7 +73,7 @@ and lastly we learn about flexboxes with are:
 <br><img src="images/flex.JPG" width="500" height="300"><br><br>
 <br><br><br><br>
 
-# Week 4
+<h1>Week 4</h1>
 So week 4 lesson we are applying everything that we learn from week 1 to week 3 and putting everything together:
 
 Which are:
@@ -88,7 +88,7 @@ So basically, we learn how to use responsive images as it have better performanc
 and we started on doing our assignments.
 <br><br><br><br>
 
-# Week 5 & 6 & 7
+<h1>Week 5 & 6 & 7</h1>
 So week 5 & 6 lesson we learned about Javascript as js makes responsive design easier. JavaScript has become integral to the Internet experience as developers build increased interaction and complexity into their applications.
 
 And here are some examples of js codes:
@@ -106,7 +106,7 @@ and we also learn about Document Object Model which creaates a model of the page
 
 <br><br><br><br>
 
-# Week 7
+<h1>Week 7</h1>
 So week 7 we learn about the events and when u browse the web, the browser register different types of evens and the script will often.
 and this are the examples of events:
 <br><img src="images/eventL.JPG" width="500" height="300"><br><br>
@@ -128,14 +128,14 @@ Two different type of storage which are:
 
 <br><br><br><br>
 
-# week 8
+<h1> week 8</h1>
 So week 8 we learn about jquery and The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
 
 <br><img src="images/week8.JPG" width="800" height="400"><br><br>
 
 <br><br><br><br>
 
-# Week 9
+<h1> Week 9</h1>
 So week 9 we learn about bookstrap which Bootstrap has come a long way and it was developed out of “boredom” by developers who wanted a faster way to create User Interfaces and to resolve all the nooks and crannies imposed by all the various browsers and devices.
 
 <br><img src="images/book.JPG" width="800" height="400"><br><br>
@@ -144,14 +144,14 @@ the things we did in class which by using bookstrap:
 <br><img src="images/week9.JPG" width="800" height="400"><br><br>
 <br><br><br><br>
 
-# Week 12
+<h1> Week 12</h1>
 So week 12 we learn about RESTDB which we learn how to use a database to connect to our HTML and RESTDB is called a NoSQL because NoSQL,or most commonly known as Not only SQL database, provides a mechanism for storage and retrieval of unstructured data.
 
 <br><img src="images/restDB.JPG" width="800" height="400"><br><br>
 
 <br><br><br><br>
 
-# Week 14
+<h1>Week 14</h1>
 So week 14 we learn how to implenment Lottie and how it works and below here is a lottie animation:
 <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_a2chheio.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
 
