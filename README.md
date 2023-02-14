@@ -155,5 +155,6 @@ So week 12 we learn about RESTDB which we learn how to use a database to connect
 So week 14 we learn how to implenment Lottie and how it works and below here is a lottie animation:
 <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_a2chheio.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
 
