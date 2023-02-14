@@ -51,5 +51,5 @@ So week 2 lesson we learn about more CSS Media Queries Flex XD and the different
   <li>Use the <(label)></(label)> tag</li>
   <li>write simple validations</li>
 </ul>  
-<img src="images/formTag.JPG" width="400" height="400">
+<img src="images/formTag.JPG" width="200" height="200">
 
