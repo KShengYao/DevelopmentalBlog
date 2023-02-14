@@ -65,7 +65,7 @@ CSS position property lets you alter the positioning scheme of a particular elem
 <ul>
   <li>Relative Position: Moves elements around relative to where they would appear on the page</li>
   <li>Absolute Position: Offset is relative to the entire browser window instead of the original position of the element.</li>
-  <li>Fixed Position Very similar to absolute EXCEPT the coordinate system is relative to the entire browser window. Fixed elements don't scroll with the rest of the page. Commonly known as sticky elements<li>
+  <li>Fixed Position Very similar to absolute EXCEPT the coordinate system is relative to the entire browser window. Fixed elements don't scroll with the rest of the page. Commonly known as sticky elements</li>
 </ul>  
 <img src="images/positioning.JPG" width="500" height="300"><br><br>
 
