@@ -71,4 +71,18 @@ and lastly we learn about flexboxes with are:
 <br><img src="images/flex.JPG" width="500" height="300">
 
 # Week 4
+So week 4 lesson we are applying everything that we learn from week 1 to week 3 and putting everything together:
+
+Which are:
+<ul>
+  <li>Using Responsive Images for flexible layouts</li>
+  <li>Better understand Flex Layouts</li>
+</ul> 
+
+So basically, we learn how to use responsive images as it have better performance and auot-resize based on screen size.
+<img src="images/week4Res.JPG" width="800" height="400">
+
+and we started on doing our assignments.
+
+# Week 5
 
