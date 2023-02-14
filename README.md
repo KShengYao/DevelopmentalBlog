@@ -65,9 +65,10 @@ CSS position property lets you alter the positioning scheme of a particular elem
   <li>Absolute Position: Offset is relative to the entire browser window instead of the original position of the element.</li>
   <li>Fixed Position Very similar to absolute EXCEPT the coordinate system is relative to the entire browser window. Fixed elements don't scroll with the rest of the page. Commonly known as sticky elements<li>
 </ul>  
-<img src="images/positioning.JPG" width="200" height="200">
+<img src="images/positioning.JPG" width="500" height="300">
 
 and lastly we learn about flexboxes with are:
-<img src="flex/positioning.JPG" width="500" height="300">
+<img src="images/flex.JPG" width="500" height="300">
 
+# Week 4
 
