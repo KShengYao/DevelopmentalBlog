@@ -68,7 +68,7 @@ CSS position property lets you alter the positioning scheme of a particular elem
 <img src="images/positioning.JPG" width="500" height="300">
 
 and lastly we learn about flexboxes with are:
-<img src="images/flex.JPG" width="500" height="300">
+<br><img src="images/flex.JPG" width="500" height="300">
 
 # Week 4
 
