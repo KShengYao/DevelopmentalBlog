@@ -125,4 +125,7 @@ Two different type of storage which are:
 # week 8
 So week 8 we learn about jquery and The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
 
-<br><img src="images/week8.JPG" width="500" height="800">
+<br><img src="images/week8.JPG" width="800" height="400">
+
+
+# Week 9
