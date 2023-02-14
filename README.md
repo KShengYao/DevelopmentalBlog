@@ -84,5 +84,24 @@ So basically, we learn how to use responsive images as it have better performanc
 
 and we started on doing our assignments.
 
-# Week 5
+# Week 5 & 6 & 7
+So week 5 & 6 lesson we learned about Javascript as js makes responsive design easier. JavaScript has become integral to the Internet experience as developers build increased interaction and complexity into their applications.
 
+And here are some examples of js codes:
+<br><img src="images/java.JPG" width="500" height="300">
+
+
+and we also learn about Object Oriented Programming which are group together a set
+of variables and functions to
+create a model. Used to model the real world
+<br><img src="images/javaOOP.JPG" width="500" height="300">
+
+and we also learn about Document Object Model which creaates a model of the page. And the model is called a DOM tree
+
+<br><img src="images/dometree.JPG" width="800" height="400">
+
+
+# Week 7
+So week 7 we learn about the events and when u browse the web, the browser register different types of evens and the script will often.
+and this are the examples of events:
+<br><img src="images/eventL.JPG" width="500" height="300">
