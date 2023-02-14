@@ -129,3 +129,6 @@ So week 8 we learn about jquery and The purpose of jQuery is to make it much eas
 
 
 # Week 9
+So week 9 we learn about bookstrap which Bootstrap has come a long way and it was developed out of “boredom” by developers who wanted a faster way to create User Interfaces and to resolve all the nooks and crannies imposed by all the various browsers and devices.
+
+<br><img src="book/week8.JPG" width="800" height="400">
