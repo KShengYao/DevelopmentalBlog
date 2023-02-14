@@ -132,3 +132,19 @@ So week 8 we learn about jquery and The purpose of jQuery is to make it much eas
 So week 9 we learn about bookstrap which Bootstrap has come a long way and it was developed out of “boredom” by developers who wanted a faster way to create User Interfaces and to resolve all the nooks and crannies imposed by all the various browsers and devices.
 
 <br><img src="images/book.JPG" width="800" height="400">
+
+the things we did in class which by using bookstrap:
+<br><img src="images/week9.JPG" width="800" height="400">
+
+# Week 12
+So week 12 we learn about RESTDB which we learn how to use a database to connect to our HTML and RESTDB is called a NoSQL because NoSQL,or most commonly known as Not only SQL database, provides a mechanism for storage and retrieval of unstructured data.
+
+<br><img src="images/restDB.JPG" width="800" height="400">
+
+# Week 14
+So week 14 we learn how to implenment Lottie and how it works and below here is a lottie animation:
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets1.lottiefiles.com/packages/lf20_a2chheio.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
+
+
+
