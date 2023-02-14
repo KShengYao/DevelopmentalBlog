@@ -1,5 +1,5 @@
 # DevelopmentalBlog
-<br><br><br><br>
+<br><br>
 
 # Week1
 So week1 lesson we learn about all the different type of Description and
@@ -11,7 +11,7 @@ how does an element look like so this are a few examples:
 </ul>  
 Other key elements would be like html,body and head
 And some elements that we would use when doing the html would be like paragraph, header, image, lists.
-<br><br><br><br>
+<br><br>
 
 # Week2
 So week 2 lesson we learn about semantic web and some Semantics relates to syntaxSemantics is the meaning behind words, phrases. In our case it is the HTML:
@@ -43,7 +43,7 @@ We also learn Cascading style sheets(CSS) and it helps defines the style of the 
 .body{Font-family: Arial Helvetica sans serif}
 p{color: green)
 </(style)>
-<br><br><br><br>
+<br><br>
 
 # Week3 
 So week 2 lesson we learn about more CSS Media Queries Flex XD and the different objectives that we did are like:
@@ -71,7 +71,7 @@ CSS position property lets you alter the positioning scheme of a particular elem
 
 and lastly we learn about flexboxes with are:
 <br><img src="images/flex.JPG" width="500" height="300"><br><br>
-<br><br><br><br>
+<br><br>
 
 <h1>Week 4</h1>
 So week 4 lesson we are applying everything that we learn from week 1 to week 3 and putting everything together:
@@ -86,7 +86,7 @@ So basically, we learn how to use responsive images as it have better performanc
 <br><br><img src="images/week4Res.JPG" width="800" height="400"><br><br>
 
 and we started on doing our assignments.
-<br><br><br><br>
+<br><br>
 
 <h1>Week 5 & 6 & 7</h1>
 So week 5 & 6 lesson we learned about Javascript as js makes responsive design easier. JavaScript has become integral to the Internet experience as developers build increased interaction and complexity into their applications.
@@ -104,7 +104,7 @@ and we also learn about Document Object Model which creaates a model of the page
 
 <br><img src="images/domtree.JPG" width="800" height="400"><br><br>
 
-<br><br><br><br>
+<br><br>
 
 <h1>Week 7</h1>
 So week 7 we learn about the events and when u browse the web, the browser register different types of evens and the script will often.
@@ -126,14 +126,14 @@ Two different type of storage which are:
   <li>Session Storage: <br><img src="images/session.JPG" width="500" height="300"></li></li><br><br>
 </ul> 
 
-<br><br><br><br>
+<br><br>
 
 <h1> week 8</h1>
 So week 8 we learn about jquery and The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
 
 <br><img src="images/week8.JPG" width="800" height="400"><br><br>
 
-<br><br><br><br>
+<br><br>
 
 <h1> Week 9</h1>
 So week 9 we learn about bookstrap which Bootstrap has come a long way and it was developed out of “boredom” by developers who wanted a faster way to create User Interfaces and to resolve all the nooks and crannies imposed by all the various browsers and devices.
@@ -142,14 +142,14 @@ So week 9 we learn about bookstrap which Bootstrap has come a long way and it wa
 
 the things we did in class which by using bookstrap:
 <br><img src="images/week9.JPG" width="800" height="400"><br><br>
-<br><br><br><br>
+<br><br>
 
 <h1> Week 12</h1>
 So week 12 we learn about RESTDB which we learn how to use a database to connect to our HTML and RESTDB is called a NoSQL because NoSQL,or most commonly known as Not only SQL database, provides a mechanism for storage and retrieval of unstructured data.
 
 <br><img src="images/restDB.JPG" width="800" height="400"><br><br>
 
-<br><br><br><br>
+<br><br>
 
 <h1>Week 14</h1>
 So week 14 we learn how to implenment Lottie and how it works and below here is a lottie animation:
