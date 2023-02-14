@@ -47,9 +47,27 @@ p{color: green)
 So week 2 lesson we learn about more CSS Media Queries Flex XD and the different objectives that we did are like:
 <ul>
   <li>Use the <(form)></(form)> tag</li>
-  <li><(input)></li>
-  <li>Use the <(label)></(label)> tag</li>
-  <li>write simple validations</li>
+  <li>Use the <(input)> tag</li>
 </ul>  
 <img src="images/formTag.JPG" width="200" height="200">
+<img src="images/inputTag.JPG" width="200" height="200">
+
+And Also we learn how to use CSS box model which contains padding, border and marign.
+
+<h1>Objectives</h1>
+1.Learn about advanced positioning in CSS
+2.Relative, Absolute, Fixed
+
+<h1>Positioning</h1>
+CSS position property lets you alter the positioning scheme of a particular element by using:
+<ul>
+  <li>Relative Position: Moves elements around relative to where they would appear on the page</li>
+  <li>Absolute Position: Offset is relative to the entire browser window instead of the original position of the element.</li>
+  <li>Fixed Position Very similar to absolute EXCEPT the coordinate system is relative to the entire browser window. Fixed elements don't scroll with the rest of the page. Commonly known as sticky elements<li>
+</ul>  
+<img src="images/positioning.JPG" width="200" height="200">
+
+and lastly we learn about flexboxes with are:
+<img src="flex/positioning.JPG" width="500" height="300">
+
 
