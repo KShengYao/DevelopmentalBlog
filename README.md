@@ -105,3 +105,24 @@ and we also learn about Document Object Model which creaates a model of the page
 So week 7 we learn about the events and when u browse the web, the browser register different types of evens and the script will often.
 and this are the examples of events:
 <br><img src="images/eventL.JPG" width="500" height="300">
+
+and we also learn FORMS & VALIDATION
+Enhancing Interactivity the reason is because Prevent user from enter invalid inputs We have server side validation and client side validation.
+
+One example would be:
+<br><img src="images/formVali.JPG" width="500" height="300">
+
+
+and we also learn about local storage so its basically a web storage lets you store data in the browser and the data it stores can only be accessed by the domain that set the data.
+
+Two different type of storage which are:
+<ul>
+  <li>local storage: <br><img src="images/local.JPG" width="500" height="300"></li>
+  <li>Session Storage: <img src="images/session.JPG" width="500" height="300"></li></li>
+</ul> 
+
+
+# week 8
+So week 8 we learn about jquery and The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+
+<li>Session Storage: <img src="images/week8.JPG" width="500" height="500"></li></li>
