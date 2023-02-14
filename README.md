@@ -36,4 +36,20 @@ Common Elements would be:
   <li>figures</li>
 </ul>  
 
-We also learn Cascading style sheets(CSS) and it helps defines the style of the HTML like making texts green and its the "adjectives" of a webpage
+We also learn Cascading style sheets(CSS) and it helps defines the style of the HTML like making texts green and its the "adjectives" of a webpage. This are some examples:
+<(style)>*
+.body{Font-family: Arial Helvetica sans serif}
+p{color: green)
+</(style)>
+
+
+# Week3 
+So week 2 lesson we learn about more CSS Media Queries Flex XD and the different objectives that we did are like:
+<ul>
+  <li>Use the <(form)></(form)> tag</li>
+  <li><(input)></li>
+  <li>Use the <(label)></(label)> tag</li>
+  <li>write simple validations</li>
+</ul>  
+<img src="images/formTag.JPG" width="400" height="400">
+
