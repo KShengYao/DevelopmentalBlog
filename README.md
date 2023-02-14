@@ -98,7 +98,7 @@ create a model. Used to model the real world
 
 and we also learn about Document Object Model which creaates a model of the page. And the model is called a DOM tree
 
-<br><img src="images/dometree.JPG" width="800" height="400">
+<br><img src="images/domtree.JPG" width="800" height="400">
 
 
 # Week 7
