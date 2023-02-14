@@ -118,11 +118,11 @@ and we also learn about local storage so its basically a web storage lets you st
 Two different type of storage which are:
 <ul>
   <li>local storage: <br><img src="images/local.JPG" width="500" height="300"></li>
-  <li>Session Storage: <img src="images/session.JPG" width="500" height="300"></li></li>
+  <li>Session Storage: <br><img src="images/session.JPG" width="500" height="300"></li></li>
 </ul> 
 
 
 # week 8
 So week 8 we learn about jquery and The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
 
-<li>Session Storage: <img src="images/week8.JPG" width="500" height="500"></li></li>
+<br><img src="images/week8.JPG" width="500" height="800">
